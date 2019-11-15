@@ -211,7 +211,7 @@ h2{
     nav{
         display: block;
     }
-    nav button{
+    header button{
         display: none;
     }
     nav ul{
